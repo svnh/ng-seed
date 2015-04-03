@@ -1,0 +1,19 @@
+{
+  "name": "ng-seed",
+  "version": "0.0.0",
+  "homepage": "https://github.com/svnh/ng-seed",
+  "authors": [
+    "Savannah Kunovsky <sekunovsky@gmail.com> (http://svnh.github.io)"
+  ],
+  "description": "Seed for Angular.js projects",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.3.14",
+    "angular-resource": "~1.3.14",
+    "angular-ui-router": "~0.2.13"
+  }
+}

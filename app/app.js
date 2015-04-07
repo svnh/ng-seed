@@ -1,1 +1,1 @@
-var app = angular.module('AsanaAdminApp', ['ngResource', 'ui.router']);
+var app = angular.module('FooApp', ['ngResource', 'ui.router']);
